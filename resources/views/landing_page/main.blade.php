@@ -64,7 +64,7 @@
                             <div>
 								<p class="font-size-20" data-split-text="true" data-split-options='{ "type": "words" }'>
 									<span class="font-weight-bold">
-										<a href="#" class="btn btn-solid font-mobile text-uppercase btn-bordered border-thin round font-size-14 lh-2 font-weight-bold ltr-sp-05 mb-2"
+										<a href="#promo" class="btn btn-solid font-mobile text-uppercase btn-bordered border-thin round font-size-14 lh-2 font-weight-bold ltr-sp-05 mb-2"
 											style="background-color: #DBC69F; color: #0F385A;">
 											<span>
 												<span class="btn-txt">KUNJUNGI SHOW UNIT KAMI!</span>
