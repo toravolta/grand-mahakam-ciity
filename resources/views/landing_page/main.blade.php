@@ -21,8 +21,6 @@
 			
 			<section class="vc_row fullheight d-flex align-items-center py-5 mb-60 bg-banner">
 
-				<span class="row-bg-loader"></span>
-
 				<div class="container">
 					<div class="row d-flex flex-wrap align-items-center">
 						
