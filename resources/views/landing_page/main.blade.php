@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="theme-color" content="#3ed2a7">
 	
-	<link rel="shortcut icon" href="./favicon.png" />
+	<link rel="icon" href="{{ asset('images/icons/fav-gmc.png') }}" sizes="32x32" />
 	
 	<title>Grand Mahakam City</title>
 
