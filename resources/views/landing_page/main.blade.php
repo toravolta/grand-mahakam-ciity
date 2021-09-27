@@ -392,7 +392,7 @@
 										<i class="fa fa-check" style="color: #11496d;"></i>
 									</span>
 								</div><!-- /.iconbox-icon-wrap -->
-								<h3 class="font-size-20 font-weight-bold font-color-navyblue">Jaminan Bebas Banjir</h3>
+								<h3 class="font-size-20 font-weight-bold font-color-navyblue">Bebas Banjir</h3>
 							</div><!-- /.iconbox -->
 
 							<a href="#" class="btn btn-default btn-sm semi-round btn-bordered border-thick btn-secondary px-2 font-weight-semibold" data-localscroll="true" data-localscroll-options='{"scrollBelowSection":true}'>
@@ -573,7 +573,7 @@
 					<div class="row">
 
 						<div class="lqd-column col-md-12 text-center mb-6">
-							<a href="#"><img src="{{ asset('images/icons/cta.png') }}" width="400px"></a>
+							<a href="https://api.whatsapp.com/send?phone=6285388779659"><img src="{{ asset('images/icons/cta.png') }}" width="400px"></a>
 						</div><!-- /.lqd-column col-md-12 -->
 
 						<div class="lqd-column col-md-12">
